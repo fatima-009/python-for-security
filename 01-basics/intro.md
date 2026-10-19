@@ -17,16 +17,23 @@ Python is known for:
 
 |                    Area                      |                              Examples                                   |
 
-| Automation and scripting                     | Renaming files, scraping websites, sending emails, repetitive tasks     |
-| Web development                              | Backends and APIs with Django, Flask, FastAPI                           |
-| Data science and analysis                    | Cleaning, analyzing and visualizing data with pandas, NumPy, Matplotlib |
-| Artificial intelligence and machine learning | TensorFlow, PyTorch, scikit-learn                                       |
-| Cybersecurity                                | Port scanners, log analyzers, password and hash tools, packet analysis, 
-                                                 CTF scripts, automating penetration-testing tasks                       |
-| Networking and DevOps                        | Managing servers, cloud automation, configuration scripts               |
-| Software testing                             | Automated tests with pytest and Selenium                                |
-| Education                                    | Often the first language taught in schools and universities             |
-| Game and desktop apps                        | Simple games with Pygame, GUIs with Tkinter                             |
+1- *Automation and scripting*  | Renaming files, scraping websites, sending emails, repetitive tasks.
+
+2- *Web development* | Backends and APIs with Django, Flask, FastAPI.
+
+3- *Data science and analysis* | Cleaning, analyzing and visualizing data with pandas, NumPy, Matplotlib.
+
+4- *Artificial intelligence and machine learning* | TensorFlow, PyTorch, scikit-learn.
+
+5- *Cybersecurity* | Port scanners, log analyzers, password and hash tools, packet analysis, CTF scripts, automating penetration-testing tasks.
+
+6- *Networking and DevOps* | Managing servers, cloud automation, configuration scripts.
+
+7- *Software testing* | Automated tests with pytest and Selenium.
+
+8- *Education* | Often the first language taught in schools and universities.
+
+9- *Game and desktop apps* | Simple games with Pygame, GUIs with Tkinter.
 
 ### Why Python is popular in cybersecurity
 
